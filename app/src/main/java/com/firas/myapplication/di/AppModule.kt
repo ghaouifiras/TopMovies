@@ -19,7 +19,7 @@ object AppModule {
 
     private const val BASE_URL = "https://api.themoviedb.org/3/"
     private const val API_KEY =
-        "1e40b8fc2313e2922be4c8b43efa34c5"
+        ""
 
     @Provides
     @Singleton
